@@ -40,10 +40,10 @@ const config: Config = {
 
   // Custom fields for ChatWidget API configuration
   customFields: {
-    chatbotApiUrl: process.env.CHATBOT_API_URL || 'https://iqoonaz4321-robotic.hf.space',
+    chatbotApiUrl: process.env.CHATBOT_API_URL || 'https://azmeena-physical-ai-robotics-api.hf.space',
   },
 
-
+// https://iqoonaz4321-robotic.hf.space
   presets: [
     [
       'classic',
